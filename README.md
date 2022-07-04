@@ -69,7 +69,4 @@ function changeImg() {
 - [Bootstrap Documentation](https://getbootstrap.com/docs/5.1/getting-started/introduction/) - This helped me for using bootstrap. I really liked this framework, it really help you to make responsive layout quickly.
 
 ## Author
-
-- CodePen - [@zougari47](https://codepen.io/zougari47)
-- Frontend Mentor - [@zougari47](https://www.frontendmentor.io/profile/zougari47)
-- Twitter - [@zougari47](https://www.twitter.com/zougari47)
+- Aaditya Vikram
